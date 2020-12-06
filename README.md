@@ -1,5 +1,5 @@
 # MachineHack_GIH
-*`MachineHack Great Indian Hackathon, Rank 34 Solution`*
+*`MachineHack Great Indian Hackathon, Rank 26 Solution`*
 - Note: This notebook contains the final steps used for gettng LB score of 22.90 and hence may have missed some inital EDA and its info.
 - URL: https://www.machinehack.com/hackathons/retail_price_prediction_mega_hiring_hackathon/overview
 
